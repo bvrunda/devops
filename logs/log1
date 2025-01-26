@@ -1,0 +1,20 @@
+total 72
+-rw-rw-r-- 1 ubuntu ubuntu  211 Jan 11 01:44 age
+-rwxrwxrwx 1 ubuntu ubuntu  201 Jan 11 01:49 age_check.sh
+-rwxrwxrwx 1 ubuntu ubuntu  450 Jan 10 09:48 biggest3.sh
+-rwxrwxrwx 1 ubuntu ubuntu  287 Jan 11 01:51 case1.sh
+-rwxrwxrwx 1 ubuntu ubuntu  215 Jan 11 01:42 disk.sh
+-rw-rw-r-- 1 ubuntu ubuntu  216 Jan 11 01:41 disk_check
+-rwxrwxrwx 1 ubuntu ubuntu  255 Jan 10 11:59 disksize.sh
+-rwxrwxrwx 1 ubuntu ubuntu  319 Jan 11 01:53 exm_case2.sh
+-rwxrwxrwx 1 ubuntu ubuntu   95 Jan  9 11:46 if_exp2.sh
+-rwxrwxrwx 1 ubuntu ubuntu  173 Jan  9 11:52 if_file3.sh
+-rwxrwxrwx 1 ubuntu ubuntu  112 Jan  9 11:41 iffile1.sh
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jan  9 11:06 linux
+drwxrwxr-x 2 ubuntu ubuntu 4096 Jan 11 01:54 logs
+-rwxrwxrwx 1 ubuntu ubuntu  788 Jan 10 19:00 process_check.sh
+-rwxrwxrwx 1 ubuntu ubuntu 1124 Jan 10 18:21 simple_cal.sh
+lrwxrwxrwx 1 ubuntu ubuntu    7 Jan  8 09:11 soft_ln_abc.log -> abc.log
+-rw-rw-r-- 1 ubuntu ubuntu  180 Jan 11 01:49 temp
+-rwxrwxrwx 1 ubuntu ubuntu  214 Jan 10 10:11 whileace.sh
+-rwxrwxrwx 1 ubuntu ubuntu  216 Jan 10 10:06 whiledec.sh
